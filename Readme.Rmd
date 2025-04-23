@@ -1,0 +1,9 @@
+---
+title: "Readme"
+output: html_document
+---
+
+# Proyecto 1
+**Curso**: Fundamentos de series temporales
+
+Este es un pequeño documento en donde anotaré observaciones e información relevante sobre la base de datos y su posterior análisis.
