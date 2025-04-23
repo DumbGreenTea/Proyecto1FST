@@ -7,3 +7,6 @@ output: html_document
 **Curso**: Fundamentos de series temporales
 
 Este es un pequeño documento en donde anotaré observaciones e información relevante sobre la base de datos y su posterior análisis.
+
+## Temperatura media
+Este dato se refiere a cuandos grados celcius sube la temperatura con respecto a un promedio cada año, por ejemplo: supongamos que la temperatura normal del planeta son 25ºc y que cada año hay subidad y bajadas de temperatura con respecto a este dato, si sube un año 1,5ºc, la temperatura de ese año en promedio queda en 26,5ºc
