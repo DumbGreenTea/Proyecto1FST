@@ -82,5 +82,22 @@
   adf.test(temp_ts)$p.value
   kpss.test(temp_ts)
   
-
+#====== Diferenciación ======#
+  diff_temp_ts <- diff(temp_ts)
+  plot(diff_temp_ts, main = "Serie Diferenciada de Temperatura", 
+       xlab = "Tiempo", ylab = "Diferencia de Temperatura")
+  
+  acf(diff_temp_ts)
+  pacf(diff_temp_ts)
+  kpss.test(diff_temp_ts)
+  
+  # Segunda diferenciación si es necesario
+  diff2_temp_ts <- diff(diff_temp_ts)
+  plot(diff2_temp_ts, main = "Serie Diferenciada Dos Veces de Temperatura", 
+       xlab = "Tiempo", ylab = "Segunda Diferencia de Temperatura")
+  
+  acf(diff2_temp_ts)
+  pacf(diff2_temp_ts)
+  kpss.test(diff2_temp_ts)
+  
 
