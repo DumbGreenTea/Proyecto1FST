@@ -10,3 +10,31 @@ Este es un pequeño documento en donde anotaré observaciones e información rel
 
 ## Temperatura media
 Este dato se refiere a cuandos grados celcius sube la temperatura con respecto a un promedio cada año, por ejemplo: supongamos que la temperatura normal del planeta son 25ºc y que cada año hay subidad y bajadas de temperatura con respecto a este dato, si sube un año 1,5ºc, la temperatura de ese año en promedio queda en 26,5ºc
+
+## Preguntas
+1. Utilizando un software de su comodidad, haga un análisis de la serie presentada, gráficamente.
+Comente sobre la tendencia y/o periodicidad de ésta. Justifique su respuesta
+  **Respuesta**: Existe una **tendencia clara desde mediados del siglo XX**, a partir de 1950 aproximadamente se puede notar un crecimiento exponencial de la temperatura a nivel globlal en promedio.
+
+2. ¿Corresponde a un modelo aditivo ´ o multiplicativo?. Justifique su respuesta.
+3. Gr´ aficamente, ¿es una serie d´ ebilmente estacionaria?. Justifique su respuesta.
+4. Realice una diferenciaci´ on de la serie, esta nueva serie, ¿es una serie d´ ebilmente esta-
+cionaria?. Justifique su respuesta.
+5. Realice un suavizamiento de su serie a trav´ es de los m´ etodos vistos en clases. Compare
+gr
+´ aficamente al menos dos diferentes suavizamientos, ¿qu´ e puede concluir?.
+6. ¿Es posible realizar predicciones en base a este suavizamiento para SU serie escogida?. Si
+su respuesta es si ´ o no, debe ser justificada.
+7. Investigue y presente otro m´ etodo de suavizamiento, distinto a los revisados en clases y vea
+si es factible de aplicar a SU serie.
+8. Investigue sobre “some simple forecasting methods” (revisar https://otexts.com/
+fpp2/simple-methods.html), particularmente sobre los m´ etodos seasonal na¨
+ıve
+method y drift method.
+(a) Defina el m´ etodo mediante una ecuaci´ on (en caso de ser posible), as´ ı como tambi´
+en
+su aplicaci´ on a trav´ es del uso de software.
+(b) Entregue las condiciones necesarias para aplicar el m´ etodo.
+(c) Entregue las desventajas y/o limitantes del m´ etodo.
+(d) Aplique los m´ etodos a SU serie escogida, en caso de no ser posible, justifique ade-
+cuadamente su respuesta.
